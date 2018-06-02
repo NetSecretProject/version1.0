@@ -1,0 +1,30 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Administrator">
+    <words>
+      <w>addr</w>
+      <w>authlist</w>
+      <w>authtext</w>
+      <w>cipertext</w>
+      <w>cipherlist</w>
+      <w>ciphertext</w>
+      <w>clist</w>
+      <w>ctext</w>
+      <w>dtgs</w>
+      <w>idtgs</w>
+      <w>kctgs</w>
+      <w>kctgslist</w>
+      <w>kctgstext</w>
+      <w>kcvlist</w>
+      <w>kcvtext</w>
+      <w>packetlist</w>
+      <w>scipher</w>
+      <w>sigtext</w>
+      <w>skey</w>
+      <w>testtext</w>
+      <w>ticketlist</w>
+      <w>tickettext</w>
+      <w>tickettgs</w>
+      <w>ticketv</w>
+    </words>
+  </dictionary>
+</component>
